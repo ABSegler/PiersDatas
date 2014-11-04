@@ -38,6 +38,7 @@
 ,
 "@type": "PhysicalObject",
 "MSshortHand": "BL35157",
+"Github": "https://raw.githubusercontent.com/ABSegler/PiersDatas/master/BL35157",
 "HoldingLocation": "London, UK",
 "repository": "British Library",
 "msIdentifier": "Additional MS 35157",
